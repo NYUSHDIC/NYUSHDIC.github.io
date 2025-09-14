@@ -20,3 +20,4 @@ classes: wide
 <img src="/assets/images/QRcode_2025.JPG" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
 
 
+
