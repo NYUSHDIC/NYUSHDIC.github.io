@@ -1,6 +1,6 @@
 ---
-title: "About NYUSH Digital Innovation Challenge 2024 🥳"
-permalink: /DIC2024/
+title: "How to contact DIC through WeChat?"
+permalink: /WeChat/
 layout: single
 classes: wide
 ---
@@ -18,3 +18,4 @@ classes: wide
 ## Wechat Interest Group
 
 <img src="assets/images/QRcode_2025.JPG" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
+
