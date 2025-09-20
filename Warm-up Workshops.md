@@ -4,6 +4,7 @@ permalink: /Warm-up Workshops/
 layout: single
 classes: wide
 ---
+
 <img src="/assets/images/活动简报.png" alt="catt" style="width: 60%; height: auto; display: block; margin: 0 auto;"/>
 
 从今天起，**Digital Innovation Challenge 2025** 正式进入预热阶段。我们将与 NYU Shanghai 教授合作，并邀请 AI 领域的嘉宾，共同推出一系列预热工作坊，带大家了解 AI 技术的发展趋势及其商业价值。  
