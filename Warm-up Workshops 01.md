@@ -82,4 +82,7 @@ The lecture presented a clear path for students: build skills and networks on ca
 文案 | Runzhang  
 排版 | Renata, Terrence  
 图片 | Runzhang  
-审核 | Terrence  
+审核 | Terrence
+
+---
+[Gen-Z Startups: Stories, Insights, and Inspiration](/Warm-up Workshops/)
