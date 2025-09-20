@@ -12,5 +12,5 @@ classes: wide
 Starting today, **Digital Innovation Challenge 2025** enters its warm-up stage. Together with professors from NYU Shanghai and guest experts in AI, we will host a series of Warm-up Workshops to explore the latest developments in AI and uncover its business value.  
 
 ---
-
-## [Gen-Z Startups: Stories, Insights, and Inspiration](/Warm-up Workshops 01/)
+## 目录 | Content
+### [Gen-Z Startups: Stories, Insights, and Inspiration](/Warm-up Workshops 01/)
