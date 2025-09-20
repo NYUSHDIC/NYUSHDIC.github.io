@@ -77,3 +77,9 @@ He stressed that today’s tech and startup environment offers unprecedented opp
 
 The lecture presented a clear path for students: build skills and networks on campus, try entrepreneurship with courage, and progress through iteration and external support — making the journey from campus to entrepreneurship truly attainable.  
 
+---
+
+文案 | Runzhang  
+排版 | Renata, Terrence  
+图片 | Runzhang  
+审核 | Terrence  
