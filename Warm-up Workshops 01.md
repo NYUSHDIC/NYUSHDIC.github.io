@@ -4,6 +4,7 @@ permalink: /Warm-up Workshops 01/
 layout: single
 classes: wide
 ---
+<img src="/assets/images/Experience Sharing (4).png" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
 ## 主讲人介绍 Introduction of the Guest Speaker
 
