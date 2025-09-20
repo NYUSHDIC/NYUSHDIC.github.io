@@ -1,14 +1,16 @@
 main:
+  - title: "About us"
+    url: /AboutUs/
+  - title: "Warm-up Workshops"
+    url: /Warm-up Workshops/
   - title: "DIC 2025"
     url: /DIC2025/
-  - title: "DIC 2024"
-    url: /DIC2024/
+  # - title: "DIC 2024"
+  #   url: /DIC2024/
   # - title: "2023 Recap"
   #   url: /Challenge/
   # - title: "Activities"
   #   url: /Activities/
-  - title: "About us"
-    url: /AboutUs/
   - title: "Contact us"
     url: /ContactUs/
   # - title: "test"
