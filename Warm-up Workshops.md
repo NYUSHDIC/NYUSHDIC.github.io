@@ -7,9 +7,9 @@ classes: wide
 
 <img src="/assets/images/活动简报.png" alt="catt" style="width: 60%; height: auto; display: block; margin: 0 auto;"/>
 
-从今天起，**Digital Innovation Challenge 2025** 正式进入预热阶段。我们将与 NYU Shanghai 教授合作，并邀请 AI 领域的嘉宾，共同推出一系列预热工作坊，带大家了解 AI 技术的发展趋势及其商业价值。  
+从本周起，**Digital Innovation Challenge 2025** 正式开启系列预热活动。我们将通过邀请 AI 领域的专家举办座谈会、开展互动式工作坊等方式，带你探索 AI 技术的发展趋势及其在商业中的应用价值。 
 
-Starting today, **Digital Innovation Challenge 2025** enters its warm-up stage. Together with professors from NYU Shanghai and guest experts in AI, we will host a series of Warm-up Workshops to explore the latest developments in AI and uncover its business value.  
+Starting this week, **Digital Innovation Challenge 2025** officially kicks off a series of warm-up activities. Through expert talks and interactive workshops featuring specialists in the AI field, we will guide you in exploring the latest trends in AI technology and its applications in the business world.
 
 ---
 ## 目录 | Content
