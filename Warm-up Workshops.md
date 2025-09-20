@@ -34,6 +34,8 @@ Du Lei is a Partner at Sancus Ventures, investing in ambitious founders across A
 
 More than twenty students joined the workshop and took part in an open and lively conversation with investor Du Lei, exchanging ideas and experiences. He drew on his academic, professional, and investment experiences to present the growth journey of a seasoned entrepreneur and investor, while inspiring the next generation of founders.  
 
+<img src="assets/images/提问1.JPG" style="width: 60%; height: auto; display: block; margin: 0 auto;"/>
+<img src="assets/images/坐姿特性4.JPG" alt="catt" style="width: 60%; height: auto; display: block; margin: 0 auto;"/>
 ---
 
 ## 创业启示 Key Takeaways
@@ -73,6 +75,8 @@ Age and inexperience are not obstacles—many iconic companies were started by s
 
 ---
 
+<img src="assets/images/会后小组.JPG" alt="catt" style="width: 60%; height: auto; display: block; margin: 0 auto;"/>
+
 杜磊强调，如今的技术与创业环境为小团队甚至个人提供了前所未有的机遇。只要拥有过硬的产品能力、创新的迭代思路和持续的执行力，就有可能在不久的将来打造出独角兽公司。他鼓励同学们勇于尝试，把握时代机遇。  
 
 He stressed that today’s tech and startup environment offers unprecedented opportunities for small teams and individuals, encouraging students to seize the moment.  
@@ -80,3 +84,4 @@ He stressed that today’s tech and startup environment offers unprecedented opp
 这场讲座为大学生勾勒出了一条清晰路径：在校园中积累技能和人脉，勇敢尝试创业项目，并通过迭代和外部资源逐步走向成功——让“从校园到创业”的想象真正成为可能。  
 
 The lecture presented a clear path for students: build skills and networks on campus, try entrepreneurship with courage, and progress through iteration and external support — making the journey from campus to entrepreneurship truly attainable.  
+
