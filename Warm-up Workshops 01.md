@@ -85,4 +85,4 @@ The lecture presented a clear path for students: build skills and networks on ca
 审核 | Terrence
 
 ---
-[<<< Go Back to Previous Page](/Warm-up Workshops/)
+[< Go Back to Previous Page](/Warm-up Workshops/)
