@@ -1,3 +1,10 @@
+---
+title: "NYUSH Digital Innovation Challenge"
+permalink: /Warm-up Workshops/
+layout: single
+classes: wide
+---
+
 # Digital Innovation Challenge 2025 预热活动回顾与预告
 
 [TOC]
