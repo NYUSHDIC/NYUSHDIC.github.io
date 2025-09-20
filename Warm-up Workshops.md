@@ -5,23 +5,19 @@ layout: single
 classes: wide
 ---
 
-# Digital Innovation Challenge 2025 预热活动回顾与预告
-
-[TOC]
+# 2025-09-17 · Warm-up Workshop with Du Lei
 
 ---
 
-# 序 Preface
+## 序 Preface
 
 从今天起，**Digital Innovation Challenge 2025** 正式进入预热阶段。我们将与 NYU Shanghai 教授合作，并邀请 AI 领域的嘉宾，共同推出一系列预热工作坊，带大家了解 AI 技术的发展趋势及其商业价值。  
 
 Starting today, **Digital Innovation Challenge 2025** enters its warm-up stage. Together with professors from NYU Shanghai and guest experts in AI, we will host a series of Warm-up Workshops to explore the latest developments in AI and uncover its business value.  
 
-**09 / 17 / 2025**
-
 ---
 
-# 主讲人介绍 Introduction of the Guest Speaker
+## 主讲人介绍 Introduction of the Guest Speaker
 
 **杜磊**，现任 Sancus Ventures 合伙人，专注于投资人工智能及软件基础设施领域的创业者。此前，他作为创始团队成员兼首席科学家加入 Opendoor，助力公司实现规模化并成功上市，随后共同创立 Huma Finance。  
 
@@ -31,7 +27,7 @@ Du Lei is a Partner at Sancus Ventures, investing in ambitious founders across A
 
 ---
 
-# 活动回顾 Event Review
+## 活动回顾 Event Review
 
 本次工作坊吸引了 **20 多位学生** 前来参与，与投资人杜磊展开了一场真诚而热烈的交流。  
 
@@ -41,37 +37,37 @@ More than twenty students joined the workshop and took part in an open and livel
 
 ---
 
-# 创业启示 Key Takeaways
+## 创业启示 Key Takeaways
 
-## 创业门槛降低 Opportunities of Our Time
+### 创业门槛降低 Opportunities of Our Time
 云计算、开源工具和 AI 自动化让小团队甚至个人都能快速打造产品，学生可直接将学习成果转化为实践。  
 
 Cloud computing, open-source tools, and AI automation are lowering barriers to entrepreneurship, enabling even students to turn ideas into real products.  
 
 ---
 
-## 快速迭代 Action over Perfection
+### 快速迭代 Action over Perfection
 先做出 Demo，再不断优化；不要等待完美条件，而要用最小可行产品验证市场。  
 
 Start with a demo, test the market early, and improve through iteration instead of waiting for perfection.  
 
 ---
 
-## 团队与人脉 Power of Teams
+### 团队与人脉 Power of Teams
 大学里的黑客松、社团与合作项目，可能就是未来创业伙伴的起点。  
 
 University hackathons, clubs, and projects can be the birthplace of future co-founders and partners.  
 
 ---
 
-## 资源利用 Using Resources Wisely
+### 资源利用 Using Resources Wisely
 Y Combinator 等加速器可提供导师、资金和人脉，学生应积极争取。  
 
 Platforms like Y Combinator provide funding, mentorship, and networks to help startups grow faster.  
 
 ---
 
-## 勇气与行动 Courage to Begin
+### 勇气与行动 Courage to Begin
 不要因年轻或缺乏经验而怀疑自己，许多伟大公司都诞生于学生或年轻人勇敢的第一步。  
 
 Age and inexperience are not obstacles—many iconic companies were started by students who dared to take the first step.  
@@ -85,33 +81,3 @@ He stressed that today’s tech and startup environment offers unprecedented opp
 这场讲座为大学生勾勒出了一条清晰路径：在校园中积累技能和人脉，勇敢尝试创业项目，并通过迭代和外部资源逐步走向成功——让“从校园到创业”的想象真正成为可能。  
 
 The lecture presented a clear path for students: build skills and networks on campus, try entrepreneurship with courage, and progress through iteration and external support — making the journey from campus to entrepreneurship truly attainable.  
-
----
-
-# 活动预告 Coming Next
-
-敬请期待 **赛制揭幕**  
-Stay tuned for the **Competition Format Reveal**
-
----
-
-# 交个朋友 Find Us on Social Media
-
-**NYUSH DIC 官网（Official Website）：**  
-👉 [https://www.nyushdic.com/](https://www.nyushdic.com/)  
-
-**添加 NYUSH DIC 官方微信号 DICtionary**  
-答疑 / 聊天  
-*Add NYUSH DIC Official WeChat: DICtionary (Q&A / Chat)*  
-
-**关注 NYUSH DIC 官方小红书 DICtionary**  
-赛事预热 / 活动速递  
-*Follow NYUSH DIC on RED note (Event Warm-up / Quick Updates)*  
-
----
-
-文案 | Runzhang  
-排版 | Renata, Terrence  
-图片 | Runzhang  
-审核 | Renata, Terrence  
-封面 | Terrence  
