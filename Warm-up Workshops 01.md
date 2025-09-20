@@ -1,5 +1,5 @@
 ---
-title: "2025-09-17 · Warm-up Workshop with Du Lei"
+title: "2025-09-17 · Gen-Z Startups: Stories, Insights, and Inspiration"
 permalink: /Warm-up Workshops 01/
 layout: single
 classes: wide
