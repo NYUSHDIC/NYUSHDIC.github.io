@@ -14,6 +14,4 @@ classes: wide
 <br>
 Offical Email: shanghai.dic@nyu.edu
 <br>
-<br>
 [Contact us through WeChat](/WeChat/)
-<br>
