@@ -11,7 +11,7 @@ classes: wide
 
 <p style="text-align: center; font-weight: bold;">You can contact us in the ways below!</p>
 <p style="text-align: center;">
-Offical Email
 <br>
-Email: shanghai.dic@nyu.edu
+Offical Email: shanghai.dic@nyu.edu
+[Contact us through WeChat](/WeChat/)
 <br>
