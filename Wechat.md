@@ -14,10 +14,3 @@ classes: wide
 ## WeChat Assistant - DICtionary
 
 <img src="/assets/images/WechatDICtionary.png" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
-
-## Wechat Interest Group
-
-<img src="/assets/images/QRcode_2025.JPG" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
-
-
-
