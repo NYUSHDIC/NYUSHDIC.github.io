@@ -100,10 +100,16 @@ A group of students developed SpendSmart using Base44 to facilitate efficient ma
 Another group of students developed EduCommunity using Base44 to provide an efficient and convenient educational platform. The homepage features a course catalog, search functionality, category filters, and access to the learning community, allowing users to quickly find courses that match their learning goals. Each course clearly displays instructor information, course description, duration, participant count, and rating, helping learners make informed choices. Users can create new courses, join the community, or browse resources. The interface is clean, well-structured, and easy to navigate, supporting learning, sharing, and fostering knowledge growth and interaction.  
 
 ---
+
 文案 | Terrence, Feiya
+
 图片 | Runzhang
+
 排版 | Feiya, Terrence
+
 审核 | DIC 2025 
+
 封面 | Messi, Terrence
+
 ---
 [< Go Back to Previous Page](/Warm-up Workshops/)
