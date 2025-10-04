@@ -67,8 +67,8 @@ Within groups, participants turn ideas into prompts, using language to guide AI 
 <img src="/assets/images/IMG_2612.JPG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
 
-#### 方法论  
-#### **Methodology**
+### 方法论  
+### **Methodology**
 
 1. **功能设计 Feature Design**  
    明确核心需求，规划信息层级，从整体到细节，确保页面结构清晰。  
@@ -85,7 +85,7 @@ Within groups, participants turn ideas into prompts, using language to guide AI 
 ---
 
 ### 成果展示  
-#### **Presentation of Outcomes**
+### **Presentation of Outcomes**
 
 #### 1. 智能财务 SpendSmart  
 
