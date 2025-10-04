@@ -6,29 +6,17 @@ classes: wide
 ---
 <img src="/assets/images/IMG_2609.JPG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
-# 序  
-**Preface**
-
-本周，Digital Innovation Challenge 2025 预热活动迎来了第二场互动式工作坊 —— “Idea-to-App with base44”。在这场活动中，参与者组队在教育、心理健康或金融三大主题中进行头脑风暴，把创意转化为高质量的 AI 提示词，并现场见证 base44 模型生成可运行的应用原型。大家在轻松有趣的氛围中体验了从灵感火花到实际产品的全过程。  
-
-This week, Digital Innovation Challenge 2025 kicked off its second interactive workshop—"Idea-to-App with base44". Participants teamed up to brainstorm innovative apps in the fields of education, mental well-being, and finance, transformed their ideas into high-quality AI prompts, and witnessed the base44 model generate functional app prototypes on the spot. It was an engaging experience that took creativity from an initial spark to a tangible product.  
-
-**09 / 25 / 2025**  
-
 ---
 
-# 活动回顾  
+## 活动回顾  
 **Event Review**
 
-## 环节一：Vibe Coding 分享  
+### 环节一：Vibe Coding 分享  
 **Sharing Vibe Coding**
 
 活动开场由学姐 Ashley Chen 带来 Vibe Coding 的故事与案例，大家在轻松氛围中了解这种全新的编程方式。  
 
 The event will kick off with senior student Ashley Chen sharing the story and cases of Vibe Coding, allowing everyone to explore this new way of programming in a relaxed atmosphere.  
-
-### 从 Coding 到 Vibe Coding：编程的新纪元  
-**From Coding to Vibe Coding: A New Era of Programming**
 
 #### 什么是 Vibe Coding?  
 **What is Vibe Coding?**
@@ -51,10 +39,10 @@ Vibe Coding 让初学者与专家都能以极快的速度把想法变为现实�
 
 Vibe coding empowers both beginners and experts to bring ideas to life at lightning speed. By lowering barriers, it makes coding playful, collaborative, and more widely accessible. Tools like GitHub Copilot, Claude, and Codex are shaping a future where intentions translate directly into working software.  
 
-### 软件开发简史  
+#### 软件开发简史  
 **History of Software Development**
 
-### 结语  
+#### 结语  
 **Conclusion**
 
 Vibe Coding 不仅是一种工具，更是一种转变——它正在重塑我们对创造、创新以及代码本身角色的理解。  
@@ -63,14 +51,14 @@ Vibe coding is not just a tool—it’s a shift in how we think about creation, 
 
 ---
 
-## 环节二：提示词创作  
+### 环节二：提示词创作  
 **Prompt Crafting**
 
 在小组交流中，成员们把想法转化为提示词，用语言引导 AI 将创意逐步实现，并分组后分别在教育、财务等领域寻找切入点，开展项目制作。最终成果以应用原型的形式呈现，每个小组展示自己的作品，让灵感真正落地。  
 
 Within groups, participants turn ideas into prompts, using language to guide AI as creativity gradually takes shape. They then divide into subgroups, exploring entry points in areas such as education and finance to develop their projects. The final results appear as app prototypes, with each team showcasing their work and turning inspiration into reality.  
 
-### 方法论  
+#### 方法论  
 **Methodology**
 
 1. **功能设计 Feature Design**  
@@ -87,16 +75,16 @@ Within groups, participants turn ideas into prompts, using language to guide AI 
 
 ---
 
-## 成果展示  
+### 成果展示  
 **Presentation of Outcomes**
 
-### 1. 智能财务 SpendSmart  
+#### 1. 智能财务 SpendSmart  
 
 一组同学利用 Base44 设计了 SpendSmart，旨在帮助用户高效管理收支与预算。首页清晰呈现本月支出、剩余预算、总预算及近期交易，并通过 Quick Actions 提供便捷操作入口。用户可通过 Add New Expense 记录支出，填写描述、金额、类别、支付方式及日期，预算进度条可实时更新，使开销状况一目了然，从而有效保持预算控制。整体界面简洁、信息层次清晰、操作流畅。  
 
 A group of students developed SpendSmart using Base44 to facilitate efficient management of income, expenses, and budgets. The homepage clearly presents monthly spending, remaining budget, total budget, and recent transactions, with Quick Actions providing convenient operational access. Users can Add New Expense by entering the description, amount, category, payment method, and date, while budget progress bars update in real time, offering a clear overview of expenditures and supporting effective budget control. The interface is concise, well-structured, and user-friendly.  
 
-### 2. 教育社群 EduCommunity  
+#### 2. 教育社群 EduCommunity  
 
 另一组同学利用 Base44 设计了 EduCommunity，旨在为用户提供高效、便捷的教育学习平台。首页展示课程目录、课程搜索、分类筛选及学习社区入口，让用户快速找到符合学习目标的课程。每门课程清晰呈现讲师信息、课程简介、学习时长、参与人数及评分，帮助学习者快速了解课程内容并做出选择。用户可创建新课程、加入学习社区或浏览资源，整个界面简洁直观、信息层次清晰、操作流畅，支持学习与分享，激发知识成长与互动。  
 
@@ -104,11 +92,11 @@ Another group of students developed EduCommunity using Base44 to provide an effi
 
 ---
 
-文案 | Terrence, Feiya**  
-图片 | Runzhang**  
-排版 | Feiya, Terrence**  
-审核 | DIC 2025**  
-封面 | Messi, Terrence**
+文案 | Terrence, Feiya
+图片 | Runzhang
+排版 | Feiya, Terrence
+审核 | DIC 2025 
+封面 | Messi, Terrence
 
 
 ---
