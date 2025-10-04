@@ -16,7 +16,9 @@ classes: wide
 
 活动开场由学姐 Ashley Chen 带来 Vibe Coding 的故事与案例，大家在轻松氛围中了解这种全新的编程方式。  
 
-The event will kick off with senior student Ashley Chen sharing the story and cases of Vibe Coding, allowing everyone to explore this new way of programming in a relaxed atmosphere.  
+The event will kick off with senior student Ashley Chen sharing the story and cases of Vibe Coding, allowing everyone to explore this new way of programming in a relaxed atmosphere.
+
+<img src="/assets/images/IMG_2611.JPG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
 #### 什么是 Vibe Coding?  
 #### **What is Vibe Coding?**
@@ -33,7 +35,6 @@ Coined by Andrej Karpathy, vibe coding refers to programming through natural lan
 Traditional coding emphasizes precision, logical structure, and full control over performance. Vibe coding, by contrast, is more conversational and hands-off—you focus on ideas while AI handles the implementation. This makes it ideal for rapid prototyping, creative projects, and early-stage exploration.  
 
 
-
 #### 为何重要?  
 #### **Why It Matters?**
 
@@ -45,7 +46,7 @@ Vibe coding empowers both beginners and experts to bring ideas to life at lightn
 
 #### 软件开发简史  
 #### **History of Software Development**
-
+<img src="/assets/images/IMG_2610.PNG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
 #### 结语  
 #### **Conclusion**
@@ -57,11 +58,13 @@ Vibe coding is not just a tool—it’s a shift in how we think about creation, 
 ---
 
 ### 环节二：提示词创作  
-**Prompt Crafting**
+### **Prompt Crafting**
 
 在小组交流中，成员们把想法转化为提示词，用语言引导 AI 将创意逐步实现，并分组后分别在教育、财务等领域寻找切入点，开展项目制作。最终成果以应用原型的形式呈现，每个小组展示自己的作品，让灵感真正落地。  
 
-Within groups, participants turn ideas into prompts, using language to guide AI as creativity gradually takes shape. They then divide into subgroups, exploring entry points in areas such as education and finance to develop their projects. The final results appear as app prototypes, with each team showcasing their work and turning inspiration into reality.  
+Within groups, participants turn ideas into prompts, using language to guide AI as creativity gradually takes shape. They then divide into subgroups, exploring entry points in areas such as education and finance to develop their projects. The final results appear as app prototypes, with each team showcasing their work and turning inspiration into reality. 
+
+<img src="/assets/images/IMG_2612.JPG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
 
 #### 方法论  
