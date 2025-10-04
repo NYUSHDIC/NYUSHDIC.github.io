@@ -102,13 +102,9 @@ Another group of students developed EduCommunity using Base44 to provide an effi
 ---
 
 文案 | Terrence, Feiya
-
 图片 | Runzhang
-
 排版 | Feiya, Terrence
-
 审核 | DIC 2025 
-
 封面 | Messi, Terrence
 
 ---
