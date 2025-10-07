@@ -4,49 +4,50 @@ permalink: /Warm-up Workshops 02/
 layout: single
 classes: wide
 ---
+
 <img src="/assets/images/IMG_2609.JPG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
 ---
  
-## **Event Review**
+## Event Review
  
-### **Sharing Vibe Coding**
+### Vibe Coding Sharing
 
 The event will kick off with senior student Ashley Chen sharing the story and cases of Vibe Coding, allowing everyone to explore this new way of programming in a relaxed atmosphere.
 
 <img src="/assets/images/IMG_2611.JPG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
-#### **What is Vibe Coding?**
+#### What is Vibe Coding?
 
 Coined by Andrej Karpathy, vibe coding refers to programming through natural language with the help of AI. Instead of writing every line of code, you simply describe your ideas, and large language models generate and refine the code for you. It follows a “code first, refine later” approach, making coding more intuitive and accessible.  
 
-#### **How It Differs from Traditional Coding?**
+#### How It Differs from Traditional Coding?
 
 Traditional coding emphasizes precision, logical structure, and full control over performance. Vibe coding, by contrast, is more conversational and hands-off—you focus on ideas while AI handles the implementation. This makes it ideal for rapid prototyping, creative projects, and early-stage exploration.  
  
-#### **Why It Matters?**
+#### Why It Matters?
 
 Vibe coding empowers both beginners and experts to bring ideas to life at lightning speed. By lowering barriers, it makes coding playful, collaborative, and more widely accessible. Tools like GitHub Copilot, Claude, and Codex are shaping a future where intentions translate directly into working software.  
 
 
 
-#### **History of Software Development**
+#### History of Software Development
 <img src="/assets/images/IMG_2610.PNG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
-#### **Conclusion**  
+#### Conclusion 
 
 Vibe coding is not just a tool—it’s a shift in how we think about creation, innovation, and the role of code itself.  
 
 ---
 
-### **Prompt Crafting**
+### Prompt Crafting
 
 Within groups, participants turn ideas into prompts, using language to guide AI as creativity gradually takes shape. They then divide into subgroups, exploring entry points in areas such as education and finance to develop their projects. The final results appear as app prototypes, with each team showcasing their work and turning inspiration into reality. 
 
 <img src="/assets/images/IMG_2612.JPG" style="width: 80%; height: auto; display: block; margin: 0 auto;"/>
 
 
-### **Methodology**
+### Methodology
 
 1. **Feature Design**    
    Define core requirements and structure information from overview to detail, ensuring a clear layout.  
@@ -59,7 +60,7 @@ Within groups, participants turn ideas into prompts, using language to guide AI 
 
 ---
   
-### **Presentation of Outcomes**
+### Presentation of Outcomes
 
 #### 1. SpendSmart   
 
