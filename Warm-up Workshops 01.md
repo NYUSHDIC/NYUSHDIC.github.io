@@ -63,9 +63,9 @@ The lecture presented a clear path for students: build skills and networks on ca
 
 ---
 
-Copywriting | Runzhang
-Layout | Renata, Terrence
-Images | Runzhang
+Copywriting | Runzhang  
+Layout | Renata, Terrence  
+Images | Runzhang  
 Review | Terrence  
 
 ---
