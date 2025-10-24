@@ -4,6 +4,7 @@ permalink: /Registration/
 layout: single
 classes: wide
 ---
+## [Q & A](https://docs.google.com/document/d/1ELdl1rnIiuocqDzG0yr18omfLQac4oHzPUksYh967jM/edit?tab=t.0)
 ## [Submmision Policy for Stage 1](https://docs.google.com/document/d/1zS-UuRL-8oTXzZ9avCjwXFnbJVbPHAfNqrn3gsBTvwI/edit?tab=t.0)  (You can follow the steps below)
 ## 11/09 - 11/20
 ### Step 1: Form a team
