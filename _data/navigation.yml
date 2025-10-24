@@ -3,6 +3,8 @@ main:
     url: /AboutUs/
   - title: "DIC 2025"
     url: /DIC2025/
+  - title: "Registration"
+    url: /Registration/
   # - title: "Warm-up Workshops"
   #   url: /Warm-up Workshops/
   # - title: "DIC 2024"
