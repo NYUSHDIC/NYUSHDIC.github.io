@@ -10,7 +10,7 @@ classes: wide
 #### Step 1: Form a team
 Click the link to invite team members: [Looking for teammates?](https://docs.google.com/document/d/1h4P-5oIOeXse2An3MMywylFW4_lqfct81RTLx0n4mao/edit?tab=t.0)
 #### Step 2: Choose a track
-[Track infomation](/DIC2025/) is here.
+[Track infomation](/DIC2025/#tracks-information) is here.
 ####  Step 3: Create a repository
 Reminder: The contestant's GitHub repository should remain private. After the competition begins, DIC releases the official GitHub account (link), and contestants need to set it as a collaborator so we can access the repo.
 #### Step 4: Fill in the Qualtrics form
