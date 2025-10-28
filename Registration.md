@@ -15,4 +15,7 @@ Click the link to invite team members: [Looking for teammates?](https://docs.goo
 Reminder: The contestant's GitHub repository should remain private. After the competition begins, DIC releases the official GitHub account (link), and contestants need to set it as a collaborator so we can access the repo.
 #### Step 4: Fill in the Qualtrics form
 ## 11/09 - 12/05
-####  Stage 1 materials upload
+####  Upload Stage 1 materials, including:
+- Proposal (in PDF format)
+- Presentation Video (3-5 minutes, within 100MB)
+- Project Prototype (optional, only for reference)
