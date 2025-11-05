@@ -6,7 +6,7 @@ classes: wide
 ---
 ## [Q & A](https://docs.google.com/document/d/1ELdl1rnIiuocqDzG0yr18omfLQac4oHzPUksYh967jM/edit?tab=t.0)
 ## [Submmision Policy for Stage 1](https://docs.google.com/document/d/1zS-UuRL-8oTXzZ9avCjwXFnbJVbPHAfNqrn3gsBTvwI/edit?tab=t.0)  (You can follow the steps below)
-## 11/09 - 11/20
+## 11/09 - 11/27
 #### Step 1: Form a team
 Click the link to invite team members: [Looking for teammates?](https://docs.google.com/document/d/1h4P-5oIOeXse2An3MMywylFW4_lqfct81RTLx0n4mao/edit?tab=t.0)
 #### Step 2: Choose a track
