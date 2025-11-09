@@ -13,6 +13,15 @@ Click the link to invite team members: [Looking for teammates?](https://docs.goo
 [Track infomation](/DIC2025/#tracks-information) is here.
 ####  Step 3: Create a repository
 Reminder: The contestant's GitHub repository should remain private. After the competition begins, DIC releases [the official GitHub account](https://github.com/NYUSHDIC), and contestants need to set it as a collaborator so we can access the repo.
+
+**Naming Rule**
+Kiwi: Track 01
+Shinytest: Track 02
+Henlius: Track 03
+DKU: Track 04
+The name of the GitHub repository should be in the form below:
+DIC[Track Number]-[Your Project Name]
+
 #### Step 4: Fill in the Qualtrics form
 <img src="/assets/images/SV_0cAm061z48aa5aS-qrcode (1).png" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
 ## 11/09 - 12/24
