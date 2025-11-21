@@ -24,6 +24,7 @@ DIC[Track Number]-[Your Project Name]
 
 #### Step 4: Fill in the Qualtrics form
 <img src="/assets/images/SV_0cAm061z48aa5aS-qrcode (1).png" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
+
 ## 11/09 - 12/24
 ####  Upload Stage 1 materials to your repository, including:
 - Proposal (in PDF format)
