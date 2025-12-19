@@ -30,3 +30,7 @@ DIC[Track Number]-[Your Project Name]
 - Proposal (in PDF format)
 - Presentation Video (3-5 minutes, within 100MB)
 - Project Prototype (optional, only for reference)
+
+## 1/12 - 1/19
+####  The selected teams will be announced
+####  Update team members through Stage 2 Registration Sheet
