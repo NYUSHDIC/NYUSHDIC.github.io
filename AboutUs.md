@@ -5,8 +5,8 @@ layout: single
 classes: wide
 ---
 <br>
-![Groupphoto](..assets/images/DIC2025/IMG_4219.JPG)
-<!-- ![banner](.assets/images/DIC2025/IMG_4219.JPG) -->
+![Groupphoto](/assets/images/DIC2025/IMG_4219.JPG)
+<!-- ![banner](/assets/images/DIC2025/IMG_4219.JPG) -->
 <br>
 <br>
 
