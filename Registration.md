@@ -95,12 +95,10 @@ Upload the following materials to your repository:
 ### 1/20 – 1/27
 
 #### Step 1: Confirm Contact Information
-Confirm your group’s contact information, including **1 email address and 1 WeChat ID**,  
-and submit them to the [Registration Sheet for Stage 2](https://docs.google.com/document/d/17OqNQYrBZdTk6cYINP8DXQyEjQk8-acL9N0NPW5MKj0/edit?tab=t.9pp9w9mjgd55#heading=h.k0kltvsctl5w).
+Confirm your group’s contact information, including **1 email address and 1 WeChat ID**, and submit them to the [Registration Sheet for Stage 2](https://docs.google.com/document/d/17OqNQYrBZdTk6cYINP8DXQyEjQk8-acL9N0NPW5MKj0/edit?tab=t.9pp9w9mjgd55#heading=h.k0kltvsctl5w).
 
 #### Step 2: Team Expansion
-Each team may expand its size to **at most 10 members**.  
-Submit updated team information to the [Invitation Sheet](https://docs.google.com/spreadsheets/d/1A3OvM4MXvsuSxCSUvjmPsF3CAAg4ipGZ1ybUSiJZ-D4/edit?gid=0#gid=0).
+Each team may expand its size to **at most 10 members**. Submit updated team information to the [Invitation Sheet](https://docs.google.com/spreadsheets/d/1A3OvM4MXvsuSxCSUvjmPsF3CAAg4ipGZ1ybUSiJZ-D4/edit?gid=0#gid=0).
 
 ---
 
