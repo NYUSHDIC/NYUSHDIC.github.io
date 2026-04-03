@@ -39,6 +39,7 @@ Kiwi FeedbackLoop is a modular analytics layer that extends the Kiwi learning en
 PocketPledge  
 
 PocketPledge is an innovative study tool designed to cure procrastination by combining virtual companionship with high-stakes accountability. Featuring an interactive Live2D avatar, low-latency voice chat, and multimodal vision AI, the system actively monitors your webcam and screen to detect distractions like smartphone usage or sleeping.
+
 ---
 
 ## GLOBAL TRACK AWARDS
